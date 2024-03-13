@@ -17,6 +17,12 @@ Nuking Capabilities: Provides tools to perform controlled shows of force on Disc
 Use
 Initial setting
 When launching the tool, you will have the choice between:
+⚠️following the encrypt the microsoft defender antivirus goes crazy.
+If you think there is a risk I invite you to try it on a virtual machine.
+Concerning the antivirus it acts mainly because of certain options integrated into the tools
+As for the nuker and self bot.
+Thank you for your understanding and trust!
+Good use.⚠️ 
 
 Enter .open to access a local link allowing you to configure the tool via a web interface. This method is recommended for its simplicity and user-friendliness.
 Enter .quit to exit and do a manual setup if you prefer a more technical approach.
